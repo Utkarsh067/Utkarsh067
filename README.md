@@ -1,13 +1,13 @@
-<h1 align="center">Hii 👋👋👋, I'm Utkarsh Jain</h1>
+<h1 align="center">Hi 👋, I'm Utkarsh Jain</h1>
 <h3 align="center">Currently Pursuing a B. Tech in Computer Science and Engineering (Specialization in Cloud Computing and Automation) from VIT Bhopal.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/utkarsh_jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="utkarsh_jain" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/www.linkedin.com/in/utkarsh-jain-6865a722b](https://www.linkedin.com/in/utkarsh-jain-6865a722b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/utkarsh-jain-6865a722b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/utkarsh-jain02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-jain02" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/utkarsh-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="utkarsh-jain" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/utkarshjn02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarshjn02" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/utkarsjz5v/https://www.geeksforgeeks.org/user/utkarsjz5v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="utkarsjz5v/https://www.geeksforgeeks.org/user/utkarsjz5v/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/utkarsjz5v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="utkarsjz5v" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
